@@ -11,7 +11,7 @@ h5,
 h6 {
   padding:0;
   margin:0;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 .clear-fix {
@@ -26,7 +26,7 @@ h6 {
 
 h1 {
   font-size: 40px;
-  color: #FFFFFF;
+  color: #fff;
   line-height: 48px;
   display: inline;
 }
@@ -166,7 +166,7 @@ span {
 
 #lets-connect {
   text-align: center;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 /* Media queries to handle various device widths */
