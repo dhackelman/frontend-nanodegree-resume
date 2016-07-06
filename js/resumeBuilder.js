@@ -47,12 +47,12 @@ var bio = {
 
         if (bio.skills.length > 0) {
             $('#header').append(HTMLskillsStart);
-            var formattedSkill = HTMLskills.replace('%data%', bio.skills[0]);
-            var formattedSkill = HTMLskills.replace('%data%', bio.skills[1]);
-            var formattedSkill = HTMLskills.replace('%data%', bio.skills[2]);
-            $('#skills').append(formattedSkill)
-                .append(formattedSkill)
-                .append(formattedSkill);
+            var formattedSkill1 = HTMLskills.replace('%data%', bio.skills[0]);
+            var formattedSkill2 = HTMLskills.replace('%data%', bio.skills[1]);
+            var formattedSkill3 = HTMLskills.replace('%data%', bio.skills[2]);
+            $('#skills').append(formattedSkill1)
+                .append(formattedSkill2)
+                .append(formattedSkill3);
         }
     }
 };
