@@ -15,9 +15,9 @@ var bio = {
         'twitter': '@hackelmanarchy',
         'location': 'New Orleans, LA'
     },
-    'welcomeMessage': 'Warning: FEND Learning in Progress!',
+    'welcomeMessage': 'Warning: This site is still under construction!',
     'skills': [
-        'Javascript', 'CSS', 'Riding Bikes'
+        'Riding Bikes', 'Writing Code', 'Exploring NC'
     ],
     'biopic': 'https://yt3.ggpht.com/-k4FiyhESvJQ/AAAAAAAAAAI/AAAAAAAAAAA/rewfOJjvJ8Q/s900-c-k-no/photo.jpg',
     display: function() {
