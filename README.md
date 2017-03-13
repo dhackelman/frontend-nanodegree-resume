@@ -4,10 +4,7 @@ Completed as a student with the Udacity Nanodegree program for Front End Develop
 
 Hoted on GH Pages @ http://dhackelman.github.io/frontend-nanodegree-resume/
 
-Instructions from Udacity assignment ||
-                                     \/
-
-
+Instructions from Udacity assignment:
 
 ## How do I complete this project?
 
