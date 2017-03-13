@@ -1,3 +1,14 @@
+#Udacity Frontend Nanodegree Personal Resume Project
+
+Completed as a student with the Udacity Nanodegree program for Front End Development. 
+
+Hoted on GH Pages @ http://dhackelman.github.io/frontend-nanodegree-resume/
+
+Instructions from Udacity assignment ||
+                                     \/
+
+
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
